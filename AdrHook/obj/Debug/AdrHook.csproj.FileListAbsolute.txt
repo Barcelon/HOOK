@@ -1,0 +1,14 @@
+C:\Users\Andrew\Desktop\GlobalHook\AdrHook\bin\Debug\AdrHook.dll
+C:\Users\Andrew\Desktop\GlobalHook\AdrHook\bin\Debug\AdrHook.pdb
+C:\Users\Andrew\Desktop\GlobalHook\AdrHook\obj\Debug\AdrHook.dll
+C:\Users\Andrew\Desktop\GlobalHook\AdrHook\obj\Debug\AdrHook.pdb
+C:\Users\Andrew\Desktop\GlobalHook\AdrHook\obj\Debug\AdrHook.csprojResolveAssemblyReference.cache
+D:\软件开发项目\AdrHookDemo\AdrHook\bin\Debug\AdrHook.dll
+D:\软件开发项目\AdrHookDemo\AdrHook\bin\Debug\AdrHook.pdb
+D:\软件开发项目\AdrHookDemo\AdrHook\obj\Debug\AdrHook.dll
+D:\软件开发项目\AdrHookDemo\AdrHook\obj\Debug\AdrHook.pdb
+C:\Users\XQ\Desktop\AdrHookDemo\AdrHookDemo\AdrHook\bin\Debug\AdrHook.dll
+C:\Users\XQ\Desktop\AdrHookDemo\AdrHookDemo\AdrHook\bin\Debug\AdrHook.pdb
+C:\Users\XQ\Desktop\AdrHookDemo\AdrHookDemo\AdrHook\obj\Debug\AdrHook.csprojResolveAssemblyReference.cache
+C:\Users\XQ\Desktop\AdrHookDemo\AdrHookDemo\AdrHook\obj\Debug\AdrHook.dll
+C:\Users\XQ\Desktop\AdrHookDemo\AdrHookDemo\AdrHook\obj\Debug\AdrHook.pdb
